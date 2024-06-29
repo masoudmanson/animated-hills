@@ -4,7 +4,7 @@
 
 <br />
 <p align="center">
-  <img width="800" alt="Screenshot 2024-06-29 at 3 54 01 AM" src="https://github.com/masoudmanson/animated-hills/assets/927990/a51977de-f7f1-4b97-a0b5-45ca51ed88a1">
+  <img width="800" alt="Teal Hills" src="https://github.com/masoudmanson/animated-hills/assets/927990/be0abd25-cc47-409d-b007-db6e56c38246">
 </p>
 <br />
 
